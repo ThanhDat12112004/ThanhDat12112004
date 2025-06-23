@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there 👋, I'm Thanh Dat</h1>
-<h3 align="center">A passionate software engineering student from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi there 👋, I'm Duong Thanh Dat</h1>
+<h3 align="center">A passionate Software Technology student from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thanhdat12112004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,8 +10,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently studying **Software Engineering** at **HUTECH University**
-- 🌱 I'm learning **AWS**, **Serverless**, and **Full Stack Development**
+-🎓 I'm currently studying **Software Technology** at **HUTECH University** (since 2022).
+- 🌱 I'm learning **AWS**, **Serverless**, and **Full Stack Development**, **Website and Mobile**
 - 👯 I'm looking to collaborate on interesting **open-source** or **web projects**
 - ⚡ Fun fact: I love coding with music 🎧 and building side-projects 🚀
 
@@ -39,15 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat12112004&layout=compact&theme=radical" />
 </p>
 
-
-
----
-
-### 🚀 Featured Projects
-
-- 📌 [Serverless CRUD API with AWS Lambda](https://github.com/ThanhDat12112004/serverless-crud-python-demo)  
-- 📌 [Student Management WinForms App](https://github.com/ThanhDat12112004/...)  
-- 📌 [Face Recognition Login with TensorFlow & OpenCV](https://github.com/ThanhDat12112004/...)
 
 ---
 
