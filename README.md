@@ -13,7 +13,6 @@
 - 🎓 I'm currently studying **Software Engineering** at **HUTECH University**
 - 🌱 I'm learning **AWS**, **Serverless**, and **Full Stack Development**
 - 👯 I'm looking to collaborate on interesting **open-source** or **web projects**
-- 📫 How to reach me: **[Facebook](https://facebook.com/thanhdat12112004)** or **[Email](mailto:your-email@example.com)**
 - ⚡ Fun fact: I love coding with music 🎧 and building side-projects 🚀
 
 ---
@@ -52,9 +51,8 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/thanhdat12112004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:devduongthanhdat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-th%C3%A0nh-%C4%91%E1%BA%A1t-616237371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
